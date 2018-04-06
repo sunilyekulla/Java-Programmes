@@ -1,0 +1,10 @@
+package package5253;
+
+public class class5253 {
+
+	public static void main(String[] args) {
+		System.out.println("welcomejava");
+
+	}
+
+}
